@@ -45,47 +45,48 @@
               </q-item-section>
             </q-item>
 
-            <q-item clickable tag="a" target="_blank" href="https://github.com/le0zh0u/startup-checklist">
+            <q-item clickable tag="a" target="_blank" href="https://github.com/skys215/startup-checklist">
               <q-item-section avatar>
                 <q-icon name="fas fa-code" />
               </q-item-section>
               <q-item-section>
                 <q-item-label>{{$t('nav.github')}}</q-item-label>
-                <q-item-label caption>https://github.com/le0zh0u/startup-checklist</q-item-label>
+                <q-item-label caption>https://github.com/skys215/startup-checklist</q-item-label>
               </q-item-section>
             </q-item>
 
             <q-separator />
 
-            <q-item clickable tag="a" target="_blank" href="http://www.leozhou.me/">
+            <q-item clickable tag="a" target="_blank" href="https://github.com/le0zh0u">
+              <q-item-section avatar>
+                <q-icon name="fas fa-language" />
+              </q-item-section>
+
+              <q-item-section>
+                <q-item-label>由LeoZhou翻译</q-item-label>
+                <q-item-label caption>https://github.com/le0zh0u</q-item-label>
+              </q-item-section>
+            </q-item>
+
+            <q-item clickable tag="a" target="_blank" href="https://blog.skys215.com/">
               <q-item-section avatar>
                 <q-icon name="fas fa-blog" />
               </q-item-section>
 
               <q-item-section>
                 <q-item-label>{{$t('nav.blog')}}</q-item-label>
-                <q-item-label caption>http://www.leozhou.me/</q-item-label>
+                <q-item-label caption>https://blog.skys215.com/</q-item-label>
               </q-item-section>
             </q-item>
 
-            <q-item clickable tag="a" target="_blank" href="http://contentbox.leozhou.me/">
+            <q-item clickable tag="a" target="_blank" href="https://regexr-cn.com/">
               <q-item-section avatar>
-                <q-icon name="img:http://img.leozhou.me/picGo/icon-white.png" />
+                <q-icon name="fas fa-registered" />
               </q-item-section>
 
               <q-item-section>
-                <q-item-label>{{$t('nav.common-content-box')}}</q-item-label>
-              </q-item-section>
-            </q-item>
-
-            <q-item clickable tag="a" href="mailto:hi@leozhou.me">
-              <q-item-section avatar>
-                <q-icon name="far fa-envelope" />
-              </q-item-section>
-
-              <q-item-section>
-                <q-item-label>{{$t('nav.email')}}</q-item-label>
-                <q-item-label caption>hi#leozhou.me</q-item-label>
+                <q-item-label>{{$t('nav.regexr-cn')}}</q-item-label>
+                <q-item-label caption>https://regexr-cn.com/</q-item-label>
               </q-item-section>
             </q-item>
 

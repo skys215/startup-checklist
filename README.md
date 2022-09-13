@@ -2,7 +2,7 @@
 
 源于几天前阅读到的[Startup idea checklist](https://www.defmacro.org/2019/03/26/startup-checklist.html)，感觉这些问题对于初创企业存在一定的价值和思考意义，也希望能有更多人能受到启发，所以开发了这个网站。
 
-访问地址：[Startup CheckList](http://startup.leozhou.me/?ref=github)
+访问地址：[Startup CheckList](https://startup.skys215.com/?ref=github)
 
 #### 数据声明
 这个网站只添加了Google Analytics用于统计访问数据，其他不会上传任何相关数据。
@@ -10,7 +10,6 @@
 
 ## Guide 
 页面一共有22个问题，均是对创业想法的提问，并且有的问题有字数限制，以及参考链接，可酌情查看。
-![页面](http://img.leozhou.me/picGo/20190427150248.png)
 
 ## Project
 

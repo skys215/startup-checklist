@@ -104,8 +104,8 @@
   "nav": {
     "reference": "想法来源",
     "github": "Code",
-    "common-content-box": "CC-常用内容盒子",
-    "blog": "Leozhou.me",
+    "regexr-cn": "Regexr正则表达式测试工具",
+    "blog": "blog.skys215.com",
     "email": "电子邮件",
     "contact": ""
   },
@@ -116,7 +116,7 @@
   "desc3": "如果你还没开始创业，可以熟悉下问题以备以后创业使用；",
   "desc4": "如果你已经创业成功了，可以告诉我对这些问题的看法，分享你的看法以及你觉得创业想法需要Check的地方。",
   "private-policy-title": "隐私政策",
-  "private-policy": "本页面处理使用Google Analytics进行收集浏览数据。除此之外暂时不会收集你的任何信息。",
+  "private-policy": "本页面处理使用百度进行收集浏览数据。除此之外暂时不会收集你的任何信息。",
   "has-empty-field": "有未回答的问题。",
   "download-btn": "下载数据"
 }
